@@ -10,7 +10,7 @@
 - 🤖 Exploring **AI, Data Science, and RAG-based LLM systems**  
 - 🏆 Dean’s List Award – *Fall 2024*  
 - 🎾 D3 Tennis Player | Balancing code & court 🎾  
-- 📫 Reach me at: **hello@rohankavali.com**  
+- 📫 Reach me at: **rohankavali14@gmail.com**  
 
 ---
 
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/rohan-kavali-013820236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@rohankavali.com">
+  <a href="mailto:rohankavali14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://scoobydoo116.github.io" target="_blank">
